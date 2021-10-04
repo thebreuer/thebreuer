@@ -1,14 +1,13 @@
-# :de: :computer: :dragon_face: :pencil: :dog: :beer: :wine_glass: :family:
-Hi! I'm thebreuer. 
-I am 29 years old and from Germany. 
+# Hi! I'm thebreuer. 
+I am 29 years old and from Germany :de: 
 
 A few buzzwords regarding to me:
-- Software developer (no matter of what kind)
-- Dungeonmaster@DnD
-- DevOps-dude
-- sausage dog owner
-- brewer
-- family-person
+- :computer: Software developer (no matter of what kind)
+- :dragon_face: Dungeonmaster@DnD
+- :desktop_computer: DevOps-dude
+- :dog: sausage dog owner
+- :beer: brewer
+- :family: family-person
 
 ## My toolchain
 
